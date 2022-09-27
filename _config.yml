@@ -2,7 +2,7 @@
 lang: en
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
-#theme: 
+theme: bulma-clean-theme
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
