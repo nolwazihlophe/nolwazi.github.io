@@ -3,6 +3,8 @@ lang: en
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
 theme: bulma-clean-theme
+permalink: pretty
+
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
