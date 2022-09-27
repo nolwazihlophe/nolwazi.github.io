@@ -18,16 +18,10 @@ I have a great passion for **capacity building**, which I firmly believe contrib
 * [Legislative Knowledge](#legislative-knowledge)
 * [Blog](#blog)
 
+
+### Contact me
 <dl>
-<img src="Nolwazi--PIC.jpg" style="border: 0pt none; margin-bottom: 1em; float: left; margin-right: 1em;" height="200">
-<p style="text-align: left;">
+<<a href="https://www.linkedin.com/in/nolwazi-hlophe/" target="_bank">img src="LinkedIn.png"</a>, <a href="https://twitter.com/hlophe_nolwazi" target="_bank">img src="Twitter.png"</a>, <a href="mailto:nolwazihlophe@gmail.com">img src="Email.png"</a> style="border: 0pt none; margin-bottom: 1em; float: left; margin-right: 1em;" height="20">
+<p style="text-align: centre;">
 </p>
 </dl>
-
-
-
-
-
-
-
-
