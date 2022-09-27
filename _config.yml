@@ -2,14 +2,7 @@
 lang: en
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
-permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#theme: 
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -50,7 +43,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-#google_analytics: UA-code-here
+google_analytics: UA-92715204-1
 
 defaults:
   -
@@ -64,9 +57,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Nolwazi Hlophe"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      #image: https://via.placeholder.com/1200x800
       show_sidebar: true
 
 markdown: kramdown
@@ -78,5 +71,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    #image: https://via.placeholder.com/800x600
     show_sidebar: false
