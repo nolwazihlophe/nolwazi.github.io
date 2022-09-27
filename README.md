@@ -9,11 +9,30 @@ The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interacti
 
 ## Contents
 
-* [Installation](#installation)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+- label: Docs
+  items:
+    - name: Installation
+      link: '/#installation'
+    - name: How To Use
+      link: '/#how-to-use'
+    - name: Alignment
+      link: '/#alignment'
+    - name: Sizes
+      link: '/#sizes'
+    - name: Colours
+      link: '/#colours'
+    - name: Outlined
+      link: '/#outlined'
+    - name: Has Radius
+      link: '/#has-radius'
+    - name: Is Highlighted
+      link: '/#highlighted'
+    - name: Has Icon
+      link: '/#has-icon'
+    - name: List Item Overrides
+      link: '/#list-item-overrides'
+    - name: Combinations
+      link: '/#combinations'
 
 
 ## Installation
