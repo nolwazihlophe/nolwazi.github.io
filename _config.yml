@@ -20,6 +20,10 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: nhlophe
 
+layout: page
+title: Page With Contents
+toc: true
+toc_title: Custom Title
 
 plugins:
   - jekyll-sitemap
