@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Nolwazi Hlophe
+tagline: Financial Regulation and Supervision Specialist
 theme: bulma-clean-theme
 permalink: pretty
 
@@ -18,7 +18,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: nhlophe
 
 
 plugins:
