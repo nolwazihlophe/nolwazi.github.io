@@ -11,18 +11,15 @@ I have experience and knowledge of payment systems, macroprudential and micropru
 
 I have a great passion for **capacity building**, which I firmly believe contributes to financial sector authorities making policy or regulatory reforms that are agile and enable **innovative financial systems** whilst maintain their **monetary and financial stability** mandate. My research interests include financial sector policymaking, regulation and supervision, financial and gender inclusion, innovation, data governance, data privacy and cybersecurity especially as we are moving into digitalization at an accelerated rate.
 
-
-
 ## Contents
 
-npm i -S bulma-block-list
-@import "node_modules/bulma-block-list/src/block-list";
-<ul class="block-list is-small is-outlined is-success is-centered">
-    <li>Publications</li>
-    <li>Presentations and Webinars</li>
-    <li>Legislative Knowledge</li>
-    <li>Blog</li>
-</ul>
+* [Publications](#publications)
+* [Presentations and Webinars](#presentations-and-webinars)
+* [Legislative Knowledge](#legislative-knowledge)
+* [Blog](#blog)
+
+
+
 
 
 
