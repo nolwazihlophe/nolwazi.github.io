@@ -23,18 +23,12 @@ I have a great passion for **capacity building**, which I firmly believe contrib
 ### Contact me
 <p style="text-align: centre;">
 <a href="https://www.linkedin.com/in/nolwazi-hlophe/" target="_bank">
-<dl>
-<img src="LinkedIn.png" style="border: 0pt none; margin-bottom: 1em;float: left; margin-right: 1em;" height="35">
-</dl>
+<img src="LinkedIn.png" height="35">
 </a>
 <a href="https://twitter.com/hlophe_nolwazi" target="_bank">
-<dl>
-<img src="Twitter.png" style="border: 0pt none; margin-bottom: 1em;float: left; margin-right: 1em;" height="35">
-</dl>
+<img src="Twitter.png" height="35">
 </a>
 <a href="mailto:nolwazihlophe@gmail.com">
-<dl>
-<img src="Email.png" style="border: 0pt none; margin-bottom: 1em;float: left; margin-right: 1em;" height="35">
-</dl>
+<img src="Email.png" height="35">
 </a>
 </p>
